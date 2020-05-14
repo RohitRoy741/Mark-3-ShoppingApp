@@ -11,3 +11,4 @@ Download all the source code and text files in a folder on your machine then com
 1. This was my java project for college so I didn't try to make it more complex by adding features like using a dbms system,etc.
 2. I am planning to develop such an application for integrating all the shops and their services in small localites as the clusters. Such a step would provide means to small bussinessmen to compete with large firms as well as help people to buy the groceries from the ones they trust.
 3. Currently I am working on re-writing this application in Python to add more features easily.
+I am editing the readme file. Adding some more info.
